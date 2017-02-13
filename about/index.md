@@ -17,5 +17,5 @@ comments: false
     /assets/img/familyphoto.jpg
     /assets/img/soccercoach.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Moments in time" cols=2 %}
 
