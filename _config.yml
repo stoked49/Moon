@@ -1,11 +1,11 @@
 # Site
 title:              <b>i.develop</b>
-bio:                "<em>using passion for tech to solve problems</em>"
-description:        "I'm a technologist. I educate myself on tech to help solve problems. Can i.dev a solution for you?"
+bio:                "<em>The journey of a thousand miles begins with one step</em> -Lao Tzu"
+description:        "description"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/selfport.jpg'
-background:         'assets/img/devbg5.jpg'
+background:         'assets/img/empty-road3.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://stoked49.github.io
