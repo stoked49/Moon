@@ -5,7 +5,7 @@ description:        "I'm a technologist. I educate myself on technology to help 
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/selfport.jpg'
-background:         'assets/img/empty-road2.jpg'
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://stoked49.github.io
