@@ -1,11 +1,11 @@
 # Site
 title:              i.dev
-bio:                'Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.'
+bio:                'Fear leads to anger.<br>Anger leads to hate.<br>Hate leads to suffering.<br> -Yoda'
 description:        "I'm a technologist. I educate myself on technology to help solve problems. Can i.dev a solution for you?"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/selfport.jpg'
+background:         'assets/img/empty-road2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://stoked49.github.io
@@ -44,14 +44,14 @@ github-url:         stoked49
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           pierre-irby
 #xing:              username
-instagram:          irbdigital
+#instagram:          irbdigital
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
 steam:              irbdigital
-dribbble:           irbdigital
+#dribbble:           irbdigital
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
